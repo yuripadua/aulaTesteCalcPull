@@ -6,7 +6,7 @@ body {
 }
 
 .calculator {
-  background-color: #ffffff;
+  background-color: #f4f4ff;
   border-radius: 5px;
   box-shadow: 0px 0px 10px #d9d9d9;
   display: inline-block;
@@ -16,7 +16,7 @@ body {
 }
 
 .display {
-  background-color: #e6e6e6;
+  background-color: #e896e6;
   border-radius: 5px;
   margin-bottom: 10px;
   overflow: hidden;
@@ -44,7 +44,7 @@ button {
   border: none;
   border-radius: 5px;
   box-shadow: 0px 0px 3px #b3b3b3;
-  color: #333333;
+  color: #334533;
   font-size: 24px;
   outline: none;
   transition: all 0.2s ease;
