@@ -1,5 +1,6 @@
 let result = document.getElementById("result");
 
+
 function getResult() {
   result.value = eval(result.value);
 }
@@ -10,6 +11,8 @@ function calculate(value) {
 
 
 
+
 function clearResult() {
   result.value = "";
+
 }
